@@ -1,4 +1,4 @@
-package constructor;
+package day3.constructor;
 
 import java.util.Scanner;
 
